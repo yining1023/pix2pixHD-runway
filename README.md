@@ -1,3 +1,16 @@
+# Pix2Pix HD: Facemarks to Portrait
+
+[![Model Badge](https://open-app.runwayml.com/gh-badge.svg)](https://open-app.runwayml.com/?model=yining1023/pix2pixHD-runway)
+
+This model takes a face landmarks image and generate a portrait image. Please see the gallery for input and output images. For example, you can use face-api.js(https://github.com/justadudewhohacks/face-api.js) to get a face landmark image.
+
+Input image  ------------------------------------------->Output image:<br>
+<img src="https://runway-model-images.s3.amazonaws.com/4fa170f1-6ddb-4190-a8f8-5375929c8883.png" alt="drawing" width="400"/><img src="https://runway-model-images.s3.amazonaws.com/a431ab09-2412-44df-b680-fa353458388a.png" alt="drawing" width="400"/>
+
+<br>
+
+Following is the original README from pix2pipxHD.
+
 <img src='imgs/teaser_720.gif' align="right" width=360>
 
 <br><br><br><br>
